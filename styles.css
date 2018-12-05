@@ -1,0 +1,40 @@
+
+
+img {
+  height: 200px;
+  width: 300px;
+  margin: 10px;
+  border-radius: 6px;
+}
+
+#container {
+  background-color: #53c653;
+  width: 320px;
+  border: 1px solid black;
+  border-radius: 10px;
+  box-shadow: 3px 3px 5px 6px #ccc;
+  padding: 8px;
+  
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  margin: 20px;
+  font-family: Palatino Linotype;
+}
+
+#facts {
+  font-family: Times new roman;
+  font-weight: bold;
+  list-style-type: none;
+}
+  
+#interesting-fact {
+  font-style: italic;
+  }
+
+.animal-info {
+  border: 1px solid black;
